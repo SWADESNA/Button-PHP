@@ -4,5 +4,5 @@ spec:
   - environment_slug: php
     git:
       branch: main
-      repo_clone_url: https://github.com/SWADESNA/Button-Python.git
+      repo_clone_url: https://github.com/SWADESNA/Button-PHP.git
     name: sample-php
